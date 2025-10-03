@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Product Details</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container center-text">
+    <h1>Product Details</h1>
+  </div>
+
+  <div class="product-details-container">
+    <div class="product-image">
+      <img src="/images/black n white.jpeg" alt="Product Image">
+    </div>
+
+    <div class="product-info">
+      <h2>Wireless Headphones</h2>
+      <div class="price">₹2,999</div>
+      <p>Experience high-quality sound and comfort with these premium wireless headphones.</p>
+
+      <div class="specifications">
+        <h3>Specifications:</h3>
+        <ul>
+          <li>Bluetooth 5.0</li>
+          <li>Up to 20 hours battery life</li>
+          <li>Noise Cancellation</li>
+          <li>Lightweight and comfortable fit</li>
+          <li>1-year warranty</li>
+        </ul>
+      </div>
+
+      <button class="add-to-cart-btn" onclick="addToCart('Wireless Headphones', 2999)">Add to Cart</button>
+    </div>
+  </div>
+
+  <script>
+    function addToCart(name, price) {
+      const item = { name, price };
+      let cart = JSON.parse(localStorage.getItem("cart")) || [];
+      cart.push(item);
+      localStorage.setItem("cart", JSON.stringify(cart));
+      alert(`${name} added to cart!`);
+    }
+  </script>
+</body>
+</html>

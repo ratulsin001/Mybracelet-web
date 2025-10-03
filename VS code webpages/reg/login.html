@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Login - E-Commerce</title>
+  <link rel="stylesheet" href="style.css" />
+  <script>
+  function handleLogin(event) {
+    event.preventDefault();
+    alert("Login successful!");
+    window.location.href = "../pro/product.html"; // 👈 correct path
+  }
+</script>
+</head>
+<body>
+  <div class="container">
+    <h2>Login</h2>
+    <form onsubmit="handleLogin(event)">
+      <input type="text" placeholder="Username or Email" required />
+      <input type="password" placeholder="Password" required />
+      <div class="forgot">
+        <a href="forgot.html">Forgot password?</a>
+      </div>
+      <button type="submit">Login</button>
+    </form>
+    <div class="link">
+      <p>New here? <a href="register.html">Register</a></p>
+    </div>
+  </div>
+</body>
+</html>

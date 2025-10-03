@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout - MyBracelet</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="logo">MyBracelet</div>
+    <nav>
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/pro/product.html">Products</a></li>
+        <li><a href="/pro/cart.html">🛒 Cart (<span id="cart-count">0</span>)</a></li>
+        <li><a class="active" href="checkout.html">Checkout</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Checkout Section -->
+  <section class="checkout-container">
+    <h1>Checkout</h1>
+
+    <!-- Order Summary -->
+    <div class="order-summary">
+      <h2>Order Summary</h2>
+      <table id="checkoutTable">
+        <thead>
+          <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Subtotal</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Injected by JS -->
+        </tbody>
+      </table>
+      <h3>Total: ₹<span id="checkoutTotal">0</span></h3>
+    </div>
+
+    <!-- Checkout Form -->
+    <form id="checkoutForm" class="checkout-form">
+      <h2>Billing Details</h2>
+      <label>Name</label>
+      <input type="text" required>
+      <label>Email</label>
+      <input type="email" required>
+      <label>Address</label>
+      <textarea rows="3" required></textarea>
+      <label>Payment Method</label>
+      <select required>
+        <option value="">--Select--</option>
+        <option value="cod">Cash on Delivery</option>
+        <option value="card">Credit/Debit Card</option>
+        <option value="upi">UPI</option>
+      </select>
+      <button type="submit" class="checkout-btn">Place Order</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 MyBracelet | All Rights Reserved</p>
+  </footer>
+
+  <script src="checkout.js"></script>
+  <script src="/script.js"></script>
+
+</body>
+</html>

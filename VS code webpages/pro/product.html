@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Bracelets - MyBracelet</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  
+  <!-- Navbar -->
+  <header class="navbar">
+  <div class="logo">MyBracelet</div>
+  <nav>
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+      <li><a class="active" href="/pro/product.html">Products</a></li>
+      <li><a href="/pro/cart.html">🛒 Cart (<span id="cart-count">0</span>)</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <!-- Search Bar inside navbar -->
+ <!-- Search Bar inside navbar with icon -->
+<div class="nav-search">
+  <input type="text" id="searchBar" placeholder="Search...">
+  <span class="search-icon"><i class="fas fa-search"></i></span>
+  <!-- Suggestions Dropdown -->
+  <ul id="suggestions" class="suggestions-list"></ul>
+</div>
+
+
+<!-- Font Awesome (for search icon) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</header>
+
+
+  <!-- Hero Banner -->
+  <section class="hero">
+    <h1>Discover Our Unique Bracelets</h1>
+    <p>Handcrafted with love & designed to shine ✨</p>
+  </section>
+
+  <!-- Product Grid -->
+  <section class="products">
+    <div class="product-card">
+      <img src="/images/alchemist.jpeg" alt="Bracelet 1">
+      <h3>alchemist</h3>
+      <p>₹799</p>
+      <button class="add-to-cart" data-name="alchemist" data-price="799" data-image="/images/alchemist.jpeg">Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+      <img src="/images/black n white.jpeg" alt="Bracelet 2">
+      <h3>Silver Elegance</h3>
+      <p>₹599</p>
+      <button class="add-to-cart" data-name="black n white" data-price="599" data-image="/images/black n white.jpeg">Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+      <img src="/images/bluebeads.jpeg" alt="Bracelet 3">
+      <h3>Beaded Bliss</h3>
+      <p>₹499</p>
+      <button class="add-to-cart" data-name="bluebeads" data-price="499" data-image="/images/bluebeads.jpeg">Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+      <img src="/images/butterfly.jpeg" alt="Bracelet 4">
+      <h3>Royal Stone</h3>
+      <p>₹999</p>
+      <button class="add-to-cart" data-name="butterfly" data-price="999" data-image="/images/butterfly.jpeg">Add to Cart</button>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 MyBracelet | All Rights Reserved</p>
+  </footer>
+<script src="product.js"></script></script>
+<script src="/script.js"></script>
+</body>
+</html>
