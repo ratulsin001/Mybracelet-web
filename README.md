@@ -1,60 +1,211 @@
-# 👾 Hey, I'm Ratul Singha!
+<!--
+  RATUL SINGHA | RPG DEVELOPER PROFILE
+  GitHub: ratulsin001
+-->
 
-### 🎮 Aspiring Software Developer | Future Builder of Cool Things
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3BFF,100:00E5FF&height=220&section=header&text=RATUL%20SINGHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=PLAYER%20001%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Ratul Singha profile banner"/>
+
+<a href="https://github.com/ratulsin001">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+Developer+Mode...;Java+Learner+%7C+Problem+Solver;Grinding+LeetCode+One+Quest+at+a+Time;Turning+Ideas+Into+Reality;LEVELING+UP+EVERY+DAY+%F0%9F%9A%80" alt="Animated developer introduction"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CLASS-Developer%20in%20Progress-6C3BFF?style=for-the-badge" alt="Developer in progress"/>
+<img src="https://img.shields.io/badge/MAIN%20WEAPON-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/MISSION-Build%20Cool%20Things-00E5FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Mission"/>
+
+**"Every bug defeated is XP earned. Every project completed unlocks a new level."**
+
+[About Me](#-character-profile) • [Tech Arsenal](#-tech-arsenal) • [Quests](#-active-quests) • [Stats](#-player-stats) • [Achievements](#-achievement-unlocked) • [Mini-Game](#-bonus-stage)
+
+</div>
+
+---
+
+## 🧙 Character Profile
+
+Hey, adventurers! I'm **Ratul Singha**, an aspiring Software Developer on a mission to transform curiosity into code.
+
+💻 I enjoy solving programming problems, learning how software works, and building projects that turn ideas into reality.
+
+☕ Currently sharpening my Java skills, exploring Data Structures & Algorithms, and leveling up my development abilities one challenge at a time.
+
+🎯 My ultimate quest? Become a skilled Software Developer who builds useful, creative, and impactful applications.
 
 ```text
-╔══════════════════════════════════════════╗
-║          PLAYER PROFILE: RATUL           ║
-╠══════════════════════════════════════════╣
-║  CLASS       : Developer in Progress     ║
-║  MAIN SKILL  : Java ☕                   ║
-║  CURRENT XP  : Learning & Building       ║
-║  NEXT LEVEL  : Software Developer 🚀     ║
-║  SPECIAL MOVE: Turning Ideas into Code   ║
-╚══════════════════════════════════════════╝
+╭────────────────────────────────────────────╮
+│              PLAYER PROFILE                │
+├────────────────────────────────────────────┤
+│  PLAYER       : Ratul Singha                │
+│  CLASS        : Future Software Developer   │
+│  MAIN WEAPON  : Java                        │
+│  TRAINING     : DSA + Coding Challenges     │
+│  SPECIAL MOVE : Debugging                    │
+│  CURRENT MODE : LEARNING & BUILDING          │
+│  FINAL QUEST  : MASTER SOFTWARE DEVELOPMENT │
+╰────────────────────────────────────────────╯
 ```
 
-💻 I'm Ratul, a passionate learner on a quest to become a **Software Developer**. I enjoy solving coding challenges, exploring new technologies, and improving my problem-solving skills one line of code at a time.
+## ⚔️ Tech Arsenal
 
-🌱 Currently learning Java, practicing Data Structures & Algorithms, and building my programming foundation.
+<div align="center">
 
-🎯 My mission is to turn ideas into real-world applications, write cleaner code, and never stop learning.
+### 🗡️ Languages & Development Tools
 
-### ⚔️ My Developer Quest
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/></a>
 
-- 🧩 Solve coding challenges and level up my logic.
-- ☕ Master Java and strengthen my programming fundamentals.
-- 🛠️ Build projects that solve real problems.
-- 🚀 Grow into a skilled Software Developer.
+</div>
 
-### 🧰 My Tech Arsenal
+> ⚡ My inventory is still growing. Each new technology is another tool unlocked!
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🗺️ Active Quests
 
-### 🎲 Developer's Rulebook
+| Quest | Objective | Status |
+|---|---|---|
+| ☕ Java Mastery | Strengthen Java fundamentals | 🔄 In progress |
+| 🧩 DSA Dungeon | Practice algorithms and data structures | 🔄 In progress |
+| 🏗️ Project Forge | Build useful software projects | 🎯 Ongoing |
+| 🌐 Web Explorer | Improve frontend and web development skills | 🌱 Learning |
+| 🚀 Final Boss | Become a Software Developer | 🔒 Ultimate quest |
+
+## 📊 Player Stats
+
+<div align="center">
+
+<a href="https://github.com/ratulsin001">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ratulsin001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/ratulsin001">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratulsin001&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/>
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ratulsin001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+<sub>Stats are generated by third-party services and may take time to update. Language percentages reflect repository code, not overall programming ability.</sub>
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ratulsin001&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub achievement trophies"/>
+</a>
+
+</div>
+
+### 🎖️ My Achievement Board
+
+- [x] 🎮 Start the developer journey.
+- [x] 🧠 Embrace problem-solving.
+- [ ] 🔥 Build a consistent coding streak.
+- [ ] 🛠️ Complete and publish more projects.
+- [ ] 🌟 Earn my first major open-source contribution.
+- [ ] 👑 Defeat the Final Boss: Become a Software Developer.
+
+*The board evolves as the journey continues.*
+
+## 🐍 Contribution Trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ratulsin001/ratulsin001/output/snake.svg" alt="Animated snake traveling through my GitHub contribution graph"/>
+
+</div>
+
+<sub>To activate this animation, install the GitHub Actions workflow described below. Until it runs successfully, the image may not appear.</sub>
+
+## 🎮 Bonus Stage: The Debugging Dungeon
+
+**Mini-game concept:** *Bug Hunter — The Java Quest*
+
+Your mission is to defeat the bugs, collect XP, and unlock the next level.
 
 ```java
-while (dreamsAlive) {
-    learn();
-    code();
-    debug();
-    repeat();
+public class BugHunter {
+
+    public static void main(String[] args) {
+        int xp = 0;
+        int bugsDefeated = 0;
+
+        String[] quests = {
+            "Fix a compilation error",
+            "Solve a coding challenge",
+            "Build a mini project",
+            "Learn a new concept"
+        };
+
+        for (String quest : quests) {
+            System.out.println("Quest unlocked: " + quest);
+            xp += 100;
+            bugsDefeated++;
+            System.out.println("Quest cleared! +100 XP\n");
+        }
+
+        System.out.println("=== PLAYER RESULTS ===");
+        System.out.println("Bugs defeated: " + bugsDefeated);
+        System.out.println("Total XP: " + xp);
+        System.out.println("Next level: Software Developer 🚀");
+    }
 }
 ```
 
-### 🏆 My Philosophy
+**Game rules:**
+- 🐛 Every bug fixed = +50 XP.
+- 🧩 Every coding challenge solved = +100 XP.
+- 🛠️ Every project completed = +500 XP.
+- 👑 Master a new concept to unlock the next skill tree.
 
-> "First, solve the problem. Then, write the code."
->
-> Every bug fixed is a lesson learned, and every project completed is a level conquered.
+*This is a small Java console-game concept you can build upon. Your real XP comes from the projects and challenges you complete!*
 
-### 🌌 Thanks for Visiting!
+## 🧠 Developer's Code of Honor
 
-⭐ Explore my repositories, follow my journey, and let's build something awesome together!
+```java
+while (!dreamAchieved) {
+    learnSomethingNew();
+    writeCode();
+    makeMistakes();
+    debug();
+    improve();
+}
 
-**The journey has just begun. GG! 🎮**
+System.out.println("Quest complete: Software Developer!");
+```
+
+## 🌌 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ratulsin001">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C3BFF,100:0D1117&height=120&section=footer" width="100%" alt="Neon footer"/>
+
+**Thanks for visiting my profile, fellow adventurer!**
+
+⭐ Explore my repositories • Follow my progress • Let's build something awesome!
+
+`GAME STATUS: IN PROGRESS`
+
+</div>
